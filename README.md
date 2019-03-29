@@ -4,4 +4,4 @@ Esse repositorio visa armazenar documentos e textos abertos a todos sobre o func
 
 
 - [Manifesto Neon]()
-- [Código de Conduta Neon](codigo-de-conduta)
+- [Código de Conduta Neon](codigo-de-conduta.mdown)
